@@ -1,0 +1,65 @@
+.avatar-small {
+    height: 300px;
+    width: 300px;
+}
+
+.dark-background{
+    background-color: #272b28;
+}
+
+.card-md {
+    min-height: 100px;
+    width: 95%;
+    background-color: #8c8c89;
+    margin: 1em;
+    border: 0.5em solid white;
+}
+
+.text-center {
+    text-align: center;
+    font-size: larger;
+    margin-top: 2em;
+    color: aqua;
+}
+
+.float-right {
+    float: right;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.starred svg {
+    color: yellow;
+}
+
+.unstarred svg {
+    color: white;
+}
+
+.starred:hover {
+    cursor: pointer;
+}
+
+.unstarred:hover {
+    cursor: pointer;
+}
+
+.transparent {
+    background-color: transparent;
+    border: none;
+}
+
+.back-button {
+    margin: 40px 40px 40px 40px;
+    padding: 10px 20px 10px 20px;
+}
+
+.full-height {
+    height: 786px;
+}
+
+.cursor-pointer{
+    cursor: pointer
+}
